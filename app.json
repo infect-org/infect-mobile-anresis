@@ -9,7 +9,7 @@
       "ios",
       "android"
     ],
-    "version": "3.0.0",
+    "version": "4.0.0",
     "orientation": "default",
     "icon": "./assets/icon.png",
     "splash": {
@@ -23,7 +23,7 @@
     },
     "android": {
       "package": "info.infect.app",
-      "versionCode": 6,
+      "versionCode": 7,
       "permissions": []
     },
     "githubUrl": "https://github.com/infect-org/infect-mobile-anresis",
